@@ -1,0 +1,1 @@
+SELECT * FROM meine_datenbank.conference;
